@@ -1,2 +1,2 @@
 # haptipedia
-Haptipedia Platform
+Haptipedia Platform: haptipedia.org
